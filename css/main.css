@@ -1,0 +1,22 @@
+body {
+    
+}
+
+.navbar {
+    background: #9322AD;
+    
+}
+
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+.breadcrumb {
+    margin-bottom:0;
+    background: #9322AD;
+}
+.jumbotron {
+    background: #9322AD url('https://vcdn-english.vnecdn.net/2019/10/03/6-jpg-5286-1527402039-15700906-7688-2336-1570091391.jpg');
+    background-size: cover;
+    color: white;
+    
+}
